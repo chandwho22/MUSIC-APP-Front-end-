@@ -1,0 +1,1 @@
+In this project we use HTML5 and CSS to design a basic music player app  
